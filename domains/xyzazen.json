@@ -4,6 +4,7 @@
     "email": "iruzjb@gmail.com"
   },
   "records": {
-    "CNAME": "https://remote-loader-project-production.up.railway.app/"
+    "CNAME": "8vttelvm.up.railway.app",
+    "TXT": ["railway-verify=3d3f7501c8c4f5c5946eaae6b0b44b130a8c03d8310b339ed1ba81bf7d42713e"]
   }
 }
